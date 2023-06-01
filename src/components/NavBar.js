@@ -46,9 +46,9 @@ export const NavBar = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#"><img src={navIcon1} alt="" /></a>
+                <a href=""><img src={navIcon1} alt="" /></a>
                 <a href="#"><img src={navIcon2} alt="" /></a>
-                <a href="#"><img src={navIcon3} alt="" /></a>
+                <a href="https://www.instagram.com/lucas_the_sccp/"><img src={navIcon3} alt="" /></a>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Mande-me uma mensagem</span></button>
